@@ -550,7 +550,7 @@ h1 .li, h2 .li, h3 .li, p .li {
     margin: 0.275rem;
 }
 #icons01 li a , #icons02 li a , #icons03 li a , #icons04 li a , #icons05 li a {
-    border-radius: 100%;
+    border-radius: 20%;
     width: 2.5em;
     height: 2.5em;
 }
