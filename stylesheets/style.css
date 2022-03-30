@@ -542,21 +542,21 @@ h1 .li, h2 .li, h3 .li, p .li {
     display: none;
 }
 #icons01 , #icons02 , #icons03 , #icons04 , #icons05 {
-    font-size: 0.875em;
+    font-size: 0.800em;
     width: calc(100% + 0.75rem);
     margin-left: -0.375rem
 }
 #icons01 li , #icons02 li , #icons03 li , #icons04 li, #icons05 li {
-    margin: 0.375rem;
+    margin: 0.275rem;
 }
 #icons01 li a , #icons02 li a , #icons03 li a , #icons04 li a , #icons05 li a {
     border-radius: 100%;
-    width: 2em;
-    height: 2em;
+    width: 2.5em;
+    height: 2.5em;
 }
 #icons01 li a svg , #icons02 li a svg , #icons03 li a svg , #icons04 li a svg , #icons05 li a svg {
-    width: 60%;
-    height: 60%;
+    width: 50%;
+    height: 50%;
 }
 #icons01 a svg , #icons02 a svg , #icons03 a svg , #icons04 a svg , #icons05 a svg {
     fill: #e88f3e;
